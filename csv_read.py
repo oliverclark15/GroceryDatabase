@@ -42,8 +42,8 @@ class Table:
         for row in self.rows:
             temp_command = ""
             for value in row:
-                value = value.replace(","," ")
-                value = value.replace("  "," ")
+                #value = value.replace(","," ")
+                #value = value.replace("  "," ")
                 if any(x.isalpha() for x in value):
                     value = "'" + value + "'"
                 temp_command += value + ","
@@ -129,9 +129,9 @@ def create_carts():
             date = random_date(t_date,TODAY)
             t_date = date
             date = ((str(date))[:10])
-            information = [h_user, h_payment, date, cart_id]
+            information = [str(h_user), str(h_payment), date, str(cart_id)]
             carts.add_unit_row(information)
-    carts.print_contents()
+    # carts.print_contents()
     CONVERTED_LIST.append(carts)
 
 
@@ -147,8 +147,8 @@ def create_cart_lists():
         number_of_items = random.randint(1,30)
         running_cost = 0
         for i in range(1, 30):
-            if i >= number_of_items:
-                information.append("Null")
+            if i > number_of_items:
+                information.append('0')
             else:
                 random_item = random.choice(product_info)
                 r_name = random_item[1]
@@ -163,7 +163,8 @@ def create_cart_lists():
         running_cost = "{0:.2f}".format(running_cost)
         information.insert(2, running_cost)
         cart_lists.add_unit_row(information)
-        cart_lists.print_contents()
+    CONVERTED_LIST.append(cart_lists)
+        #cart_lists.print_contents()
 
 
 def random_date(start, end):
@@ -176,12 +177,13 @@ def random_date(start, end):
 read_in()
 unique_keys()
 create_payment_save()
-for table in CONVERTED_LIST:
-    table.translate_to_SQL()
-    table.print_sql()
 create_carts()
 print(TODAY)
 print(YEAR_AGO)
 create_cart_lists()
+print(len(CONVERTED_LIST))
+for table in CONVERTED_LIST:
+    table.translate_to_SQL()
+    table.print_sql()
 
 

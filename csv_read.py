@@ -30,17 +30,13 @@ class Table:
             print(comm)
 
     def translate_to_SQL(self):
-        insert_command = ""
         temp_command = ""
         for row in self.rows:
             temp_command = ""
             for value in row:
-                value = value.replace("-","")
                 value = value.replace(","," ")
                 value = value.replace("  "," ")
-                if all(x.isalpha() or x.isspace() or (x == '@') for x in value[4:]) and (len(value) > 4):
-                    value = "'"+value+"'"
-                if (value[0] == 'H' and value[1].isdigit() and value[2].isalpha()):
+                if any(x.isalpha() for x in value):
                     value = "'" + value + "'"
                 temp_command += value + ","
             temp_command = temp_command[:-1]

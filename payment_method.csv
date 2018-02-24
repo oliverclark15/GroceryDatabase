@@ -1,0 +1,501 @@
+payment_id,type,card_number,ccv,expiry_date,billing_address,city,province,postal_code
+3697539,MasterCard,5.97E+15,176,26-Jul,787 Mcguire Court,Laval,Quebec,H6L 5W3
+1547341,Visa,3.05E+15,877,22-May,1 Eagle Crest Avenue,Laval,Quebec,H8S 6A3
+3880545,Amex,3.39E+15,47,22-Dec,16491 Merchant Hill,Montreal,Quebec,H4Z 2Y4
+5180631,Visa,6.43E+15,397,19-Mar,24585 Shelley Street,Montreal,Quebec,H6O 0C3
+6209197,Visa,3.97E+15,752,22-Feb,90 Morningstar Alley,Montreal,Quebec,H6H 3U8
+5954403,Amex,3.78E+15,697,25-May,0 Tomscot Trail,Montreal,Quebec,H1Y 4Z6
+6843052,MasterCard,6.00E+14,946,24-Apr,25 Gina Alley,Montreal,Quebec,H3Q 3X5
+9477486,Visa,8.94E+15,654,18-Jan,82 Clarendon Crossing,Montreal,Quebec,H5S 9P7
+7819660,MasterCard,2.85E+15,304,17-Dec,54946 7th Alley,Montreal,Quebec,H9I 6S0
+1624872,Visa,2.46E+15,586,18-Nov,2406 Hansons Alley,Laval,Quebec,H7I 8O9
+5787412,Visa,5.64E+15,768,22-Mar,7457 Melvin Parkway,Montreal,Quebec,H0E 3C5
+7518538,Visa,2.47E+15,156,25-Jan,272 Portage Drive,Laval,Quebec,H9U 6J9
+4013121,Amex,6.93E+15,51,23-Oct,66913 Hovde Parkway,Laval,Quebec,H7L 3I5
+2074518,Visa,2.10E+15,240,17-Nov,32 Harbort Circle,Montreal,Quebec,H2C 3S6
+1196741,Visa,3.67E+15,494,24-Apr,01 Sycamore Avenue,Montreal,Quebec,H2W 1Q0
+5106445,Amex,3.63E+15,590,21-Nov,2697 Wayridge Avenue,Montreal,Quebec,H9M 9H9
+3406306,MasterCard,6.00E+15,459,21-Oct,01904 Meadow Ridge Way,Montreal,Quebec,H5Y 3P2
+8586325,MasterCard,3.49E+15,732,19-Jul,581 Ryan Pass,Montreal,Quebec,H7S 7K1
+1116857,Visa,5.20E+15,45,23-Nov,4482 Waxwing Crossing,Montreal,Quebec,H8G 2D5
+4202468,Amex,2.53E+15,470,20-Sep,6696 Packers Parkway,Laval,Quebec,H9I 6L2
+3793058,Amex,4.25E+15,256,18-May,2660 Sauthoff Crossing,Montreal,Quebec,H8U 9H8
+4135731,Visa,4.18E+15,973,24-Sep,244 Erie Trail,Montreal,Quebec,H7E 8I4
+8579789,MasterCard,5.08E+15,187,23-Feb,62259 Meadow Vale Plaza,Montreal,Quebec,H1I 2B2
+7315347,Amex,7.47E+15,56,26-Jan,8703 Reinke Lane,Montreal,Quebec,H7Q 9C0
+5583668,MasterCard,3.72E+15,267,20-Aug,5693 Mccormick Pass,Montreal,Quebec,H1R 3N5
+3833927,MasterCard,6.14E+14,420,23-Dec,660 Kenwood Junction,Laval,Quebec,H4O 7I5
+1178206,MasterCard,3.28E+15,487,26-Feb,166 Pearson Drive,Montreal,Quebec,H4G 4I4
+2644483,Visa,7.59E+15,129,22-Oct,08795 Clove Park,Montreal,Quebec,H7Z 1T1
+1809547,MasterCard,3.80E+15,597,25-Jul,7 Valley Edge Circle,Montreal,Quebec,H2U 1C7
+7031476,Visa,2.28E+15,317,20-Oct,4422 Forest Dale Lane,Montreal,Quebec,H5R 3S8
+7394689,Amex,4.13E+15,373,19-Sep,71 Pepper Wood Place,Montreal,Quebec,H1P 2Y8
+6050870,Visa,4.74E+15,315,25-Aug,53 Hagan Terrace,Montreal,Quebec,H2L 7H2
+7332135,MasterCard,4.96E+15,639,23-Oct,3945 Washington Court,Montreal,Quebec,H9F 0U4
+7753221,Amex,1.47E+15,959,25-Jun,26179 Mccormick Plaza,Montreal,Quebec,H7G 6R8
+5642078,MasterCard,3.86E+15,32,21-Dec,2 Sommers Parkway,Laval,Quebec,H6T 0S6
+9542239,Visa,6.74E+15,175,18-Mar,927 Johnson Park,Montreal,Quebec,H5W 5F6
+3026137,Visa,5.57E+15,190,21-Dec,128 Northridge Circle,Laval,Quebec,H7R 3M4
+7737222,Amex,4.91E+15,677,26-Oct,28 Sunnyside Drive,Montreal,Quebec,H1W 7K8
+8803606,Visa,9.37E+15,523,17-Sep,73717 Hovde Point,Laval,Quebec,H5V 6P4
+8425484,Amex,3.61E+15,362,25-Dec,5 Nova Avenue,Montreal,Quebec,H5V 5J4
+3689390,Visa,6.77E+15,724,23-Jun,7346 Little Fleur Plaza,Montreal,Quebec,H1U 4N5
+7993768,MasterCard,5.55E+15,352,25-Oct,1 Briar Crest Alley,Montreal,Quebec,H3D 5U3
+1998178,Visa,7.29E+15,126,22-Jan,9 Oak Valley Trail,Montreal,Quebec,H7L 4Q5
+5050734,MasterCard,5.44E+15,36,26-Jul,77 American Trail,Montreal,Quebec,H9P 0Y6
+1220119,MasterCard,3.74E+15,312,23-Oct,929 Hoepker Drive,Montreal,Quebec,H6C 3B4
+7898935,MasterCard,1.12E+15,868,17-May,5 Mitchell Way,Montreal,Quebec,H0K 1R0
+2968249,MasterCard,9.41E+15,651,19-Nov,176 Coleman Terrace,Montreal,Quebec,H5Y 4X0
+2729817,MasterCard,5.17E+15,392,23-Aug,08660 Linden Road,Montreal,Quebec,H8R 5W5
+5195408,Amex,1.19E+15,199,20-Mar,402 Comanche Crossing,Montreal,Quebec,H4C 3J0
+4424001,MasterCard,7.48E+14,286,23-Feb,203 Rowland Road,Montreal,Quebec,H2J 8T5
+5815983,Visa,9.15E+14,410,21-Jul,5 Dexter Way,Laval,Quebec,H9Z 3D1
+2367830,MasterCard,3.43E+15,625,25-Oct,0 Rockefeller Way,Laval,Quebec,H2G 9F5
+4769921,Amex,6.41E+15,126,18-Jun,5978 Anderson Place,Montreal,Quebec,H0B 9Y2
+9398629,Amex,4.98E+15,770,18-Feb,56 Briar Crest Lane,Montreal,Quebec,H6B 7J7
+5335659,Visa,6.62E+15,974,18-Feb,2 Green Terrace,Montreal,Quebec,H1O 9I0
+2525964,MasterCard,8.78E+15,106,26-May,0551 Warrior Lane,Montreal,Quebec,H2R 5B8
+6241249,Visa,2.05E+14,154,23-May,95013 Boyd Street,Montreal,Quebec,H1O 5L3
+1882510,Visa,6.40E+15,610,20-Jan,65395 Hoepker Center,Montreal,Quebec,H0K 3D5
+9634866,MasterCard,1.91E+15,384,26-Aug,983 Summerview Center,Laval,Quebec,H8Z 1U4
+7459781,Visa,4.39E+14,630,22-Apr,7841 Melvin Crossing,Montreal,Quebec,H0U 6W1
+1531727,Visa,1.30E+15,844,24-Jun,97551 Del Mar Place,Montreal,Quebec,H7U 6G2
+7869390,MasterCard,3.72E+15,676,18-Jun,8217 Donald Avenue,Montreal,Quebec,H5B 2X3
+8755081,MasterCard,1.14E+15,152,20-Jan,23112 John Wall Point,Laval,Quebec,H5O 1L7
+3861518,MasterCard,8.83E+15,832,22-Nov,0176 Express Center,Montreal,Quebec,H4L 9X0
+7800058,MasterCard,3.76E+15,320,25-Dec,382 Lukken Lane,Montreal,Quebec,H5N 8N2
+3631526,MasterCard,1.09E+15,949,19-Dec,8608 Porter Junction,Montreal,Quebec,H7D 6N2
+7870438,MasterCard,2.65E+15,348,17-May,4 Drewry Point,Montreal,Quebec,H5T 3I2
+1294421,MasterCard,3.14E+15,231,22-Apr,221 Grasskamp Parkway,Montreal,Quebec,H2N 8G2
+3005470,MasterCard,2.34E+15,803,21-Aug,12973 Donald Road,Laval,Quebec,H5F 1D4
+1233906,MasterCard,1.31E+15,934,26-Aug,96 West Park,Montreal,Quebec,H9O 4X8
+9355453,MasterCard,9.67E+15,710,22-Apr,3 Jana Parkway,Montreal,Quebec,H6O 8F9
+5068246,MasterCard,3.70E+15,107,22-Jul,783 Brentwood Road,Montreal,Quebec,H1R 3A7
+3029167,Visa,8.42E+15,609,24-Mar,7726 Boyd Alley,Montreal,Quebec,H5O 3W1
+1268555,MasterCard,1.05E+15,553,21-May,5 Mandrake Place,Montreal,Quebec,H7N 0Y8
+7042268,MasterCard,8.84E+14,429,25-Apr,99868 Jenna Way,Montreal,Quebec,H0Y 1Q6
+2137455,Amex,7.71E+15,48,24-Jul,05 Maryland Alley,Montreal,Quebec,H8S 8S4
+8088578,Visa,4.73E+15,975,22-Aug,50 East Crossing,Montreal,Quebec,H6E 0D9
+4743895,MasterCard,8.38E+15,869,25-Feb,6 Eggendart Hill,Laval,Quebec,H1P 8V8
+6118849,Visa,9.84E+15,920,18-Jul,6824 Rutledge Center,Montreal,Quebec,H3F 2F3
+4842371,MasterCard,6.95E+15,305,22-Mar,838 Paget Park,Montreal,Quebec,H7C 3G9
+6322862,MasterCard,7.17E+15,162,26-Oct,14 Homewood Terrace,Laval,Quebec,H4O 2W7
+7603733,MasterCard,4.52E+15,627,25-Oct,60 Sundown Crossing,Laval,Quebec,H5F 8C6
+3025753,Visa,1.48E+15,737,19-Oct,106 Mariners Cove Point,Montreal,Quebec,H8R 8W7
+7377628,Visa,3.25E+15,222,20-Jul,3325 Atwood Place,Montreal,Quebec,H4U 3N9
+4507289,MasterCard,9.18E+15,196,17-Oct,234 Hovde Junction,Laval,Quebec,H9K 0D2
+1995520,MasterCard,8.75E+15,45,20-Dec,1 North Road,Montreal,Quebec,H9U 3L1
+7994359,Amex,2.80E+15,160,21-May,06 Warbler Point,Laval,Quebec,H3G 8Q3
+3463143,MasterCard,3.33E+14,659,20-Jan,95533 Golf Terrace,Montreal,Quebec,H4G 9A4
+8864958,MasterCard,9.47E+15,460,17-Dec,15 Hoard Center,Montreal,Quebec,H3S 3S0
+6796254,Amex,1.92E+15,823,19-Mar,0755 Upham Crossing,Montreal,Quebec,H6Z 8Z5
+6027023,Visa,4.21E+15,781,25-Oct,41 Ronald Regan Junction,Montreal,Quebec,H0N 4R7
+8324469,Amex,4.78E+15,408,25-Mar,5558 Corry Point,Laval,Quebec,H3A 9L9
+4911909,Visa,7.61E+15,460,19-Mar,0 Bonner Avenue,Laval,Quebec,H5O 2B0
+1756541,MasterCard,1.76E+15,863,17-Jun,639 Nevada Hill,Montreal,Quebec,H1K 9F9
+6140674,Visa,1.42E+15,961,18-Jul,0500 Troy Drive,Montreal,Quebec,H1Y 0H2
+6216461,Visa,2.09E+15,824,22-Aug,5 Straubel Junction,Laval,Quebec,H9Z 9H2
+6738010,MasterCard,1.22E+15,477,24-Jun,58676 Johnson Junction,Montreal,Quebec,H6B 8A5
+7303481,Amex,7.69E+15,643,26-Oct,562 Continental Drive,Montreal,Quebec,H6P 3R7
+3065857,Visa,3.87E+15,478,23-Aug,941 Homewood Pass,Montreal,Quebec,H9K 2F5
+5705954,Visa,8.50E+14,303,26-Dec,3 Stoughton Parkway,Laval,Quebec,H0T 3P9
+1051796,MasterCard,1.91E+15,849,20-Apr,206 Hallows Junction,Montreal,Quebec,H9V 6S9
+1717892,MasterCard,2.97E+15,657,22-May,390 Beilfuss Circle,Laval,Quebec,H3A 7O7
+5401214,MasterCard,1.84E+15,561,23-Jul,191 Reinke Park,Montreal,Quebec,H4Q 0T1
+2208821,MasterCard,8.48E+15,12,20-Feb,49847 Vernon Plaza,Montreal,Quebec,H3R 1W1
+5211939,MasterCard,9.48E+15,508,23-Dec,73910 Meadow Ridge Drive,Montreal,Quebec,H4R 2P4
+9568764,MasterCard,8.15E+15,435,26-Jan,613 Butterfield Place,Laval,Quebec,H0F 6U2
+7701893,Visa,2.38E+15,426,25-Nov,6061 Crowley Way,Montreal,Quebec,H4M 6V4
+5958264,Visa,7.20E+15,121,25-Oct,3 Sachs Point,Montreal,Quebec,H6Y 8W6
+1494196,Visa,1.57E+14,128,19-Jan,0244 Blackbird Alley,Montreal,Quebec,H3G 1I9
+8098078,Visa,2.23E+15,712,21-Feb,024 Darwin Park,Montreal,Quebec,H8H 3E1
+8550085,MasterCard,4.56E+15,554,20-Nov,53432 Novick Plaza,Montreal,Quebec,H7Z 9E7
+6357014,MasterCard,3.03E+15,57,23-Jan,9 Macpherson Court,Montreal,Quebec,H1O 0W0
+1810215,Visa,7.34E+15,903,20-Jun,70 Oxford Lane,Montreal,Quebec,H1V 1J7
+2743108,Amex,9.69E+15,965,19-Mar,8336 Fuller Lane,Montreal,Quebec,H7G 6B1
+4820975,Amex,8.48E+15,978,18-Mar,7196 American Plaza,Montreal,Quebec,H0Q 7K6
+5393365,MasterCard,7.89E+15,804,24-Dec,474 Evergreen Circle,Montreal,Quebec,H5X 5H4
+9066630,Visa,1.76E+15,804,21-Dec,114 Valley Edge Lane,Montreal,Quebec,H9R 4S2
+6082626,MasterCard,9.50E+15,289,21-Nov,08479 Stang Street,Laval,Quebec,H4A 4P3
+9728861,Amex,6.27E+15,26,22-Oct,10 Talisman Circle,Laval,Quebec,H1O 7F4
+4819712,Visa,7.80E+15,431,21-Mar,257 Comanche Park,Montreal,Quebec,H9H 0M9
+3267536,Visa,5.29E+15,402,17-Aug,80197 Miller Pass,Montreal,Quebec,H6D 5J9
+4816470,Amex,9.40E+15,463,18-Aug,5 Fordem Street,Montreal,Quebec,H1B 6G0
+7131879,MasterCard,6.65E+15,668,19-May,6 Lyons Point,Montreal,Quebec,H7F 8B2
+2992281,MasterCard,1.58E+15,80,22-Jun,7 Starling Crossing,Montreal,Quebec,H5L 3S5
+8512498,Visa,6.77E+15,21,17-Apr,54 Spohn Crossing,Montreal,Quebec,H0L 9F7
+1877999,Visa,4.02E+13,245,26-Jun,3 Superior Lane,Montreal,Quebec,H9T 5F0
+2177190,MasterCard,9.35E+15,14,21-Jul,13 Clyde Gallagher Place,Montreal,Quebec,H4I 7V3
+2678119,Visa,6.45E+15,450,19-Oct,18993 Riverside Parkway,Montreal,Quebec,H9P 4Y2
+2048787,MasterCard,3.28E+15,476,26-Jun,3 La Follette Way,Montreal,Quebec,H4W 7H9
+6669317,MasterCard,4.92E+15,855,17-Apr,684 Cherokee Center,Montreal,Quebec,H6N 3H2
+8613882,Visa,3.79E+15,789,21-Apr,7588 Declaration Trail,Montreal,Quebec,H7E 5H7
+3486003,Amex,5.66E+15,403,23-Jun,426 Ridge Oak Trail,Montreal,Quebec,H6T 7E8
+4455705,Visa,4.69E+15,632,22-May,3 Pepper Wood Crossing,Montreal,Quebec,H8M 7L9
+1284141,Visa,9.31E+15,891,20-Dec,0 Melody Place,Montreal,Quebec,H2B 5K9
+1980666,MasterCard,9.74E+15,807,19-Oct,218 Morrow Hill,Laval,Quebec,H4O 3S1
+5028208,Visa,4.23E+15,375,23-Aug,1 Fordem Drive,Montreal,Quebec,H0W 9S9
+7631050,MasterCard,9.25E+15,739,21-Feb,6 Canary Circle,Montreal,Quebec,H4A 1R5
+2636510,Visa,7.81E+15,668,17-Aug,37360 Del Sol Crossing,Montreal,Quebec,H4T 4J0
+3432102,MasterCard,9.11E+15,34,20-Jan,910 Mcbride Lane,Laval,Quebec,H7B 0B0
+6462232,MasterCard,2.32E+15,423,21-Jun,5 Fair Oaks Place,Laval,Quebec,H8V 1Q8
+4285275,MasterCard,7.11E+15,907,19-Mar,6 Forest Run Junction,Montreal,Quebec,H5P 3V8
+4278502,MasterCard,6.14E+15,90,18-May,4 Dunning Parkway,Laval,Quebec,H6A 3U7
+7002714,MasterCard,3.96E+14,60,25-Sep,8 Helena Road,Montreal,Quebec,H4N 8Z7
+6863675,MasterCard,9.00E+15,469,25-Jul,12 Gale Lane,Montreal,Quebec,H6F 7G0
+8406585,MasterCard,3.48E+15,555,26-Jul,55139 Shasta Center,Montreal,Quebec,H4D 2G6
+1804654,Visa,5.73E+15,373,18-Nov,564 Calypso Alley,Montreal,Quebec,H1J 3I6
+4955898,Visa,5.18E+15,867,22-Jul,6992 Di Loreto Circle,Laval,Quebec,H4U 0U5
+7087975,Amex,6.75E+15,724,24-Aug,381 Gateway Terrace,Montreal,Quebec,H3X 9Q9
+7053108,Visa,7.93E+15,435,25-Nov,988 Chive Trail,Montreal,Quebec,H2V 2Q8
+9947968,Visa,8.63E+15,412,19-Sep,224 Hansons Street,Laval,Quebec,H3X 8N3
+2907807,MasterCard,4.33E+15,304,20-Jan,42652 Kropf Lane,Laval,Quebec,H9X 8H0
+9061303,Visa,3.58E+15,485,18-Jul,7 Badeau Terrace,Montreal,Quebec,H9B 7B4
+3757958,MasterCard,7.63E+15,166,22-Mar,7 Debra Center,Montreal,Quebec,H5G 9Q2
+6105532,MasterCard,9.84E+15,189,21-Aug,60 Dahle Lane,Montreal,Quebec,H2F 5R4
+4494794,MasterCard,6.17E+15,10,22-Aug,7814 Haas Avenue,Laval,Quebec,H2Z 6P4
+8568278,MasterCard,7.90E+15,425,20-Oct,6 Schurz Parkway,Montreal,Quebec,H9Q 7Q6
+3259458,MasterCard,8.45E+15,61,22-May,07 Acker Lane,Montreal,Quebec,H7U 0A2
+3325760,MasterCard,7.83E+15,616,21-Oct,393 Badeau Point,Montreal,Quebec,H1E 7C6
+4124619,MasterCard,8.10E+15,357,18-Jan,140 Nelson Road,Montreal,Quebec,H7Z 2O5
+5776851,Visa,8.29E+15,142,19-May,32 Elka Park,Montreal,Quebec,H0O 0C4
+8869886,MasterCard,9.37E+15,684,24-Mar,16 Dorton Parkway,Montreal,Quebec,H8S 0D9
+8815747,Amex,8.61E+15,972,19-Jul,74 Morning Pass,Montreal,Quebec,H3B 5O8
+9188247,Amex,5.75E+14,544,26-Oct,10006 Sommers Hill,Montreal,Quebec,H5C 0O0
+6859643,Visa,5.81E+14,45,18-Jul,815 Coleman Avenue,Montreal,Quebec,H5Z 3W6
+3333978,Visa,7.96E+15,431,20-Aug,597 Red Cloud Circle,Laval,Quebec,H5Z 2X7
+1802157,Amex,5.00E+15,892,20-Jan,9 Starling Place,Laval,Quebec,H8N 6B2
+6560950,MasterCard,1.49E+15,65,22-Jun,7894 Spenser Avenue,Laval,Quebec,H7U 4Z0
+1503130,Visa,8.29E+15,247,26-Oct,66 6th Plaza,Montreal,Quebec,H4L 0F9
+7544938,Amex,8.02E+15,925,25-May,83878 Hanson Pass,Montreal,Quebec,H6M 1Z0
+4776342,Visa,1.74E+15,710,23-Apr,2411 Vernon Alley,Laval,Quebec,H7P 1S6
+1857986,Visa,3.11E+14,261,21-Jul,91912 Susan Plaza,Montreal,Quebec,H9V 9K9
+8371656,MasterCard,2.95E+15,285,19-Aug,428 Cordelia Alley,Montreal,Quebec,H1C 8I2
+9782028,Visa,2.04E+15,418,26-Jul,72 Coleman Circle,Montreal,Quebec,H0E 4U0
+6995212,Amex,9.71E+15,834,22-Oct,43 Thierer Circle,Laval,Quebec,H0X 6L5
+1848373,MasterCard,4.36E+15,497,17-Sep,55947 Westerfield Terrace,Montreal,Quebec,H7Q 1C6
+8714316,Visa,8.88E+15,397,23-Aug,5 Summer Ridge Circle,Montreal,Quebec,H8B 6A5
+6646639,MasterCard,7.80E+15,96,20-Oct,56149 Warbler Park,Montreal,Quebec,H9K 9N2
+2753546,MasterCard,8.09E+15,725,23-Dec,41 Algoma Trail,Laval,Quebec,H7F 1X1
+5408540,MasterCard,8.52E+15,882,24-Oct,6 Sunnyside Trail,Laval,Quebec,H0O 6S8
+2351870,Visa,9.47E+15,765,23-Aug,3 Mccormick Street,Montreal,Quebec,H3H 1Y5
+8736776,Amex,5.67E+15,730,18-Nov,770 Stoughton Center,Montreal,Quebec,H9Z 0J5
+2054679,Amex,7.21E+15,399,22-Mar,94773 Ilene Junction,Laval,Quebec,H3V 3U2
+4377149,Visa,9.15E+15,484,24-Aug,54048 Aberg Lane,Montreal,Quebec,H0E 1S2
+4552301,MasterCard,8.90E+15,601,20-Dec,3310 Linden Avenue,Montreal,Quebec,H6N 1U2
+8843061,MasterCard,1.09E+15,87,23-Jun,618 Thierer Street,Laval,Quebec,H4D 9Y4
+6336274,Visa,4.79E+15,632,17-Jun,9976 Victoria Plaza,Laval,Quebec,H8G 2H6
+5768942,Visa,4.26E+15,848,23-Jul,57484 Melvin Pass,Montreal,Quebec,H7M 3M1
+5147354,MasterCard,8.73E+15,251,25-Jan,0602 5th Road,Laval,Quebec,H8X 8P3
+4537254,Visa,7.18E+15,33,21-Apr,10573 Springs Way,Montreal,Quebec,H4K 6F1
+2335175,MasterCard,5.86E+15,83,25-Jan,61615 Raven Avenue,Montreal,Quebec,H1X 1F8
+1865570,Amex,3.38E+15,340,18-Dec,36 Crest Line Plaza,Montreal,Quebec,H9N 5K2
+1697782,Visa,4.09E+15,25,23-Sep,989 David Parkway,Montreal,Quebec,H4Y 6S9
+3404300,Amex,2.18E+15,24,23-Jul,422 Nelson Place,Montreal,Quebec,H9U 7V6
+8978183,Visa,8.99E+15,203,20-Feb,618 Fairfield Center,Montreal,Quebec,H6Y 5M8
+8270195,MasterCard,6.94E+15,42,17-Dec,165 Cherokee Trail,Montreal,Quebec,H4P 3C2
+4751887,Visa,1.35E+15,34,19-Mar,91 Vidon Lane,Montreal,Quebec,H9D 7F4
+9171204,MasterCard,9.82E+14,209,26-Sep,36247 Spohn Trail,Montreal,Quebec,H4Q 8U7
+7203191,Amex,9.53E+15,351,18-Sep,015 Colorado Junction,Laval,Quebec,H7T 6B1
+6465725,Visa,3.71E+15,746,20-Jul,3300 Maryland Point,Laval,Quebec,H9A 1V6
+5652392,Visa,2.08E+15,328,24-Aug,91 Fisk Drive,Laval,Quebec,H8Z 6M7
+5689118,Visa,8.78E+15,422,20-Aug,5919 Pleasure Road,Montreal,Quebec,H0X 1C3
+6462484,MasterCard,9.59E+15,825,26-Nov,59 Mallory Circle,Laval,Quebec,H1Y 1C1
+9683765,MasterCard,1.85E+15,722,24-Apr,5051 Farragut Lane,Montreal,Quebec,H1B 0H0
+3260721,Visa,9.59E+15,399,23-Jul,35435 Thackeray Junction,Laval,Quebec,H9P 5N1
+1152462,Amex,1.66E+15,78,23-Feb,41611 Banding Parkway,Montreal,Quebec,H9X 3Z6
+7075138,MasterCard,1.58E+15,283,25-Jan,98 Northland Place,Montreal,Quebec,H2P 8F0
+7518146,Visa,6.33E+15,591,25-Dec,4 Caliangt Parkway,Montreal,Quebec,H8C 9A9
+1040332,MasterCard,6.52E+15,6,20-Sep,61 Village Circle,Montreal,Quebec,H9O 1X6
+1250105,MasterCard,7.48E+14,191,23-Mar,6 Darwin Place,Laval,Quebec,H7F 4G2
+7367890,MasterCard,5.41E+14,470,26-Dec,75631 Onsgard Parkway,Montreal,Quebec,H9P 9S0
+6024654,Amex,4.28E+15,287,26-Aug,044 Elgar Trail,Montreal,Quebec,H1J 9S9
+6193250,Visa,6.59E+15,132,24-Jul,2 Vahlen Drive,Montreal,Quebec,H7V 0W1
+9217071,Visa,9.08E+15,981,21-Dec,7 Redwing Way,Montreal,Quebec,H3F 8X8
+1288379,Visa,6.91E+15,59,17-Sep,06498 Starling Park,Montreal,Quebec,H6X 6W4
+2567216,Visa,6.84E+15,630,18-May,35871 Orin Plaza,Montreal,Quebec,H1E 4G4
+1629734,MasterCard,5.05E+15,735,20-May,884 Dovetail Hill,Montreal,Quebec,H8P 5T3
+9329411,Visa,2.67E+15,405,20-Jan,55 Cherokee Lane,Montreal,Quebec,H8D 8V5
+1117329,MasterCard,6.84E+15,240,21-Feb,24 Old Gate Parkway,Montreal,Quebec,H0A 8B1
+5407367,MasterCard,6.76E+15,639,18-Apr,300 Mendota Junction,Montreal,Quebec,H9I 4M8
+4175444,Amex,5.30E+15,855,19-Apr,3034 Loftsgordon Junction,Montreal,Quebec,H6N 0H6
+4835018,MasterCard,7.64E+15,203,21-Apr,4547 Graedel Lane,Laval,Quebec,H8S 4Y1
+6214837,Amex,3.88E+15,121,19-Sep,6 Canary Hill,Montreal,Quebec,H7B 4W0
+4980432,MasterCard,1.81E+15,121,25-Oct,41 Loftsgordon Parkway,Montreal,Quebec,H0I 8O2
+9104176,MasterCard,9.07E+15,691,20-Aug,25275 Stoughton Terrace,Montreal,Quebec,H8Y 2B1
+2026811,MasterCard,8.73E+15,543,20-Aug,93566 Ridge Oak Hill,Laval,Quebec,H1X 4Y6
+5674122,Amex,8.24E+15,864,25-Oct,36125 Lillian Place,Laval,Quebec,H0V 7Z9
+5962804,Amex,5.72E+15,714,23-Sep,188 Northland Alley,Montreal,Quebec,H4P 5P2
+5340249,MasterCard,8.24E+15,800,21-Apr,96037 Buena Vista Lane,Laval,Quebec,H9X 3M1
+4829670,Visa,4.99E+15,803,17-Apr,5963 High Crossing Trail,Laval,Quebec,H6I 9S6
+3966283,MasterCard,1.15E+15,926,24-May,49 Dennis Alley,Laval,Quebec,H3Z 9N3
+8018379,MasterCard,3.41E+14,967,26-Apr,07 Park Meadow Way,Laval,Quebec,H8S 4H6
+6100358,MasterCard,1.38E+15,447,21-Jun,68 Walton Plaza,Montreal,Quebec,H1P 8F7
+2233072,MasterCard,6.49E+15,850,21-Oct,2945 2nd Center,Montreal,Quebec,H6A 2W4
+6613183,MasterCard,3.45E+15,341,19-Mar,5390 1st Avenue,Montreal,Quebec,H7L 4Q4
+3316971,MasterCard,9.74E+15,65,21-Jun,61186 Waubesa Terrace,Montreal,Quebec,H3P 5G7
+6102349,MasterCard,9.52E+15,95,18-Jun,7 Loomis Lane,Montreal,Quebec,H7X 1K6
+7919342,MasterCard,9.64E+14,835,21-Mar,25689 Crownhardt Point,Montreal,Quebec,H0C 5U1
+9288511,Visa,4.78E+15,178,17-Jul,847 Spaight Road,Montreal,Quebec,H6S 4H4
+2537992,MasterCard,8.24E+15,482,25-Aug,62881 Cody Lane,Laval,Quebec,H0K 4D0
+6959001,MasterCard,5.94E+15,649,17-Aug,965 Service Plaza,Montreal,Quebec,H4P 5R2
+5660685,Visa,6.54E+15,825,20-Jul,885 Iowa Avenue,Laval,Quebec,H7Y 2I1
+9412129,MasterCard,3.21E+15,978,26-Nov,36 Dorton Crossing,Laval,Quebec,H9U 4Y7
+1560812,MasterCard,1.12E+15,871,22-Aug,296 Dapin Way,Montreal,Quebec,H0M 7M2
+4908830,Visa,3.81E+15,489,17-Oct,527 Merry Center,Montreal,Quebec,H5P 2H0
+7685941,Visa,8.61E+15,567,18-Jul,1 Clyde Gallagher Hill,Laval,Quebec,H7L 1R0
+2797657,MasterCard,9.00E+14,751,25-Aug,88 Dorton Terrace,Montreal,Quebec,H5W 6X4
+9332417,Amex,7.42E+14,220,20-Jul,82 Mccormick Place,Laval,Quebec,H7Q 5U4
+6668458,MasterCard,3.34E+15,103,21-May,08602 Huxley Street,Montreal,Quebec,H6F 7W7
+6617611,Visa,2.57E+15,667,27-Jan,9 Elmside Alley,Montreal,Quebec,H0T 1C2
+9312714,Visa,6.12E+15,77,22-Jul,46505 Gina Terrace,Montreal,Quebec,H5S 5N5
+7949959,Visa,5.64E+15,630,22-Mar,474 Sauthoff Street,Laval,Quebec,H7Q 0R5
+9027050,Visa,3.69E+15,298,23-Nov,98 Prentice Court,Laval,Quebec,H0R 6V3
+4606380,Visa,8.73E+15,713,24-Aug,53 Lakewood Circle,Montreal,Quebec,H0L 7W2
+8225023,Visa,6.45E+15,271,18-Jun,8780 Melby Pass,Montreal,Quebec,H0L 2Z3
+5503485,MasterCard,2.10E+15,232,23-Jun,5 East Way,Montreal,Quebec,H1L 3V9
+5104765,Amex,5.48E+15,199,23-Jun,09 Forest Dale Pass,Montreal,Quebec,H6I 2O1
+8777144,Amex,1.82E+15,204,20-Sep,4531 Northview Plaza,Montreal,Quebec,H5A 1W8
+8472753,Visa,3.84E+15,366,20-Oct,3586 Arkansas Plaza,Montreal,Quebec,H0I 7Y9
+7688079,MasterCard,1.52E+15,1,22-Mar,257 Glendale Plaza,Montreal,Quebec,H1M 4N2
+7307393,MasterCard,5.25E+15,957,18-May,4 Rigney Pass,Montreal,Quebec,H4D 6F4
+9846661,MasterCard,9.85E+15,54,19-Jul,3 Bluestem Way,Laval,Quebec,H8M 0V4
+6495887,MasterCard,7.63E+15,971,24-Apr,24754 Michigan Point,Montreal,Quebec,H4S 3W2
+7741179,Visa,6.69E+15,336,24-Jun,08 Nelson Alley,Montreal,Quebec,H0C 2G2
+4735614,MasterCard,1.44E+15,37,18-May,64 Esker Terrace,Montreal,Quebec,H3C 5O2
+6488055,Visa,7.62E+15,487,17-Oct,4 Vermont Pass,Laval,Quebec,H9T 5D9
+2015424,MasterCard,6.18E+15,872,24-Jun,43104 Donald Court,Montreal,Quebec,H1C 0L6
+2394606,Visa,4.58E+15,33,25-Sep,3774 Debs Center,Laval,Quebec,H2Z 3D2
+4993186,MasterCard,5.48E+15,469,21-Feb,135 Oriole Trail,Montreal,Quebec,H8P 0H1
+8858391,Visa,3.12E+15,408,25-Apr,5 Sullivan Lane,Montreal,Quebec,H9J 1K4
+7391377,MasterCard,6.67E+15,915,21-Mar,9 Gulseth Trail,Montreal,Quebec,H4L 5J1
+2301835,MasterCard,6.80E+15,969,23-Feb,734 Riverside Plaza,Laval,Quebec,H9Q 5C4
+4580969,Visa,3.53E+15,2,24-Apr,342 Morning Center,Montreal,Quebec,H7T 7K6
+5808542,Visa,6.91E+15,735,20-Jul,22 Elgar Court,Montreal,Quebec,H6G 8V6
+4404819,Amex,5.32E+15,20,22-Oct,1337 Rigney Avenue,Montreal,Quebec,H0T 5Z1
+4133633,MasterCard,4.04E+15,692,18-Jun,1 Meadow Valley Hill,Montreal,Quebec,H1N 4N3
+2267077,Visa,8.37E+15,428,20-Feb,99077 Sutherland Drive,Laval,Quebec,H1Y 4F2
+9444151,MasterCard,6.70E+15,501,17-Apr,6773 Twin Pines Pass,Montreal,Quebec,H0U 1T2
+2968884,Amex,2.98E+15,941,22-Jul,54951 Buhler Avenue,Montreal,Quebec,H6A 5P4
+1912432,MasterCard,7.99E+15,245,25-Mar,96 Bay Terrace,Montreal,Quebec,H0Z 8D1
+6297767,Visa,9.63E+15,460,25-Jul,178 Loftsgordon Avenue,Montreal,Quebec,H3J 9C4
+9761203,MasterCard,1.40E+15,39,21-Feb,689 Fairfield Crossing,Montreal,Quebec,H9U 9Z3
+9197488,Amex,9.97E+14,339,18-Apr,23 Johnson Circle,Montreal,Quebec,H3Q 4N6
+6286184,Amex,2.94E+15,455,22-Oct,79161 8th Street,Montreal,Quebec,H3I 1N8
+3752456,Visa,3.49E+15,322,17-Dec,5 Redwing Street,Montreal,Quebec,H5U 0Y5
+4280732,MasterCard,1.20E+15,988,17-Jun,5 Elka Circle,Montreal,Quebec,H4T 1Y4
+8304861,Amex,7.74E+15,278,24-Oct,6220 Stone Corner Junction,Montreal,Quebec,H6N 0G2
+2836966,Visa,2.93E+15,197,18-Apr,04255 Karstens Parkway,Montreal,Quebec,H4B 0Z4
+3179664,MasterCard,7.75E+14,83,23-Jan,100 Jackson Pass,Laval,Quebec,H6U 0K1
+3288695,MasterCard,7.21E+15,648,22-May,06403 Eagan Crossing,Montreal,Quebec,H2X 9O5
+1627551,MasterCard,2.40E+15,671,23-Apr,09161 Delaware Road,Montreal,Quebec,H8C 9D8
+1682094,Amex,9.59E+14,325,27-Jan,75 Springview Street,Montreal,Quebec,H4F 7U4
+2161845,MasterCard,3.17E+15,787,19-May,816 Holmberg Way,Montreal,Quebec,H3Y 0Q9
+3925167,MasterCard,6.06E+15,168,26-Sep,257 Waywood Drive,Montreal,Quebec,H4L 0M3
+6085014,MasterCard,7.57E+15,102,26-Jan,2 Oakridge Lane,Montreal,Quebec,H4J 5K0
+8871988,Visa,8.10E+14,549,21-Jan,50 Artisan Park,Montreal,Quebec,H2J 4M4
+8381190,Amex,2.76E+15,719,18-May,195 Mockingbird Hill,Montreal,Quebec,H6V 9U4
+9003415,Visa,5.93E+15,106,26-Oct,88 Moland Avenue,Montreal,Quebec,H2K 0I0
+1852343,Amex,4.58E+15,177,24-Mar,1175 Continental Crossing,Montreal,Quebec,H3G 0H2
+1305489,MasterCard,7.97E+15,264,23-Jan,9 Rockefeller Circle,Montreal,Quebec,H1N 9C1
+6475335,MasterCard,3.82E+15,735,20-Aug,670 Burning Wood Plaza,Montreal,Quebec,H3Z 0L9
+9819279,MasterCard,5.19E+15,362,25-Feb,2369 Judy Terrace,Montreal,Quebec,H6S 0P7
+3312042,MasterCard,4.40E+15,522,22-Feb,9 Thierer Point,Montreal,Quebec,H4S 9M7
+2579812,MasterCard,5.73E+15,790,21-Jul,752 Crowley Court,Montreal,Quebec,H4K 9D7
+5800167,MasterCard,8.43E+15,108,24-Oct,93501 Fair Oaks Drive,Montreal,Quebec,H1O 5M3
+5465108,Visa,7.15E+15,824,19-Apr,19 Waubesa Hill,Montreal,Quebec,H7N 3C3
+8178300,Visa,1.44E+15,875,17-Nov,480 Farragut Plaza,Montreal,Quebec,H2Y 4B0
+9952392,MasterCard,3.94E+15,714,26-Apr,40 Muir Alley,Montreal,Quebec,H0G 3P8
+1087183,Amex,8.74E+15,117,22-Sep,4517 Ridgeway Court,Montreal,Quebec,H1Q 4B7
+5646551,MasterCard,6.32E+15,546,18-Aug,6 Bowman Junction,Laval,Quebec,H7Y 2H5
+5220101,Visa,6.15E+15,389,20-Sep,71 Norway Maple Center,Montreal,Quebec,H2Q 2B9
+6704875,MasterCard,2.34E+15,783,20-Oct,27 Reindahl Center,Montreal,Quebec,H1A 0H8
+7551292,Visa,5.69E+14,994,26-Mar,1 Blaine Circle,Montreal,Quebec,H5P 8V7
+3299477,Amex,3.11E+15,994,17-Jul,32 Village Green Junction,Laval,Quebec,H4D 9X4
+7082833,MasterCard,9.39E+15,56,20-Jul,93865 Mosinee Center,Montreal,Quebec,H1C 5J9
+2808513,Visa,6.51E+15,162,23-Nov,77 School Center,Laval,Quebec,H3W 1J6
+7807247,Amex,4.88E+15,537,17-Jun,103 Dwight Trail,Montreal,Quebec,H8T 5Z0
+3119044,Visa,7.21E+15,600,26-Nov,683 Arapahoe Plaza,Montreal,Quebec,H9Y 5F6
+9780417,MasterCard,3.44E+15,171,20-Jul,1725 Tony Center,Montreal,Quebec,H2C 7Q7
+6182447,MasterCard,5.98E+15,428,20-Mar,38 Rigney Junction,Montreal,Quebec,H1Y 0Y4
+5718081,MasterCard,9.78E+15,521,26-Apr,805 Roth Hill,Montreal,Quebec,H3A 9X3
+2853397,Visa,9.63E+15,344,23-Jul,12 Bayside Junction,Montreal,Quebec,H9L 4B9
+2657011,MasterCard,5.40E+15,403,23-Jul,665 Randy Center,Montreal,Quebec,H3W 2D1
+9951875,Amex,6.60E+15,415,26-Aug,8611 Barnett Park,Montreal,Quebec,H6X 4X8
+7487268,MasterCard,7.90E+15,958,18-Mar,3899 Mesta Road,Montreal,Quebec,H9M 7M3
+8060647,Visa,6.40E+15,991,17-Jul,3 Sachs Street,Montreal,Quebec,H1Y 6H3
+9499024,MasterCard,7.93E+15,464,19-Mar,1692 Havey Circle,Montreal,Quebec,H3P 3J7
+7447094,MasterCard,6.06E+14,738,22-Jan,90019 School Avenue,Montreal,Quebec,H1C 2M7
+7512227,MasterCard,4.05E+15,859,17-Mar,49 Superior Hill,Montreal,Quebec,H0I 6S8
+3745567,Amex,4.34E+15,493,25-Oct,73078 Warbler Way,Laval,Quebec,H4P 4U1
+7966325,MasterCard,6.55E+15,696,17-Mar,8 Bellgrove Hill,Montreal,Quebec,H8P 8S3
+4859129,MasterCard,9.69E+15,539,20-Nov,3 La Follette Lane,Montreal,Quebec,H5M 5G5
+9371725,Visa,3.50E+15,543,24-Dec,2257 5th Hill,Montreal,Quebec,H3P 8V3
+9908253,Visa,8.35E+15,691,23-Mar,24 4th Center,Montreal,Quebec,H5K 6E6
+9100271,Visa,2.73E+15,732,25-Mar,3 Mockingbird Street,Montreal,Quebec,H2W 8N8
+5251912,MasterCard,1.69E+15,958,23-Jan,7 Steensland Terrace,Montreal,Quebec,H3K 1H5
+5383047,MasterCard,2.73E+15,41,22-Oct,45 Lakewood Gardens Way,Montreal,Quebec,H2S 0J0
+4105395,MasterCard,6.88E+15,975,20-Nov,5 Forest Run Lane,Montreal,Quebec,H4P 4T3
+4887358,Visa,5.97E+15,515,22-Sep,7 Daystar Avenue,Montreal,Quebec,H9C 0H7
+3938892,MasterCard,4.39E+15,803,26-Apr,840 Hayes Terrace,Montreal,Quebec,H0I 2I4
+9051134,MasterCard,5.12E+15,966,17-May,2316 Sommers Street,Montreal,Quebec,H3W 0H5
+9730069,MasterCard,1.90E+15,277,20-Jan,42 Morrow Plaza,Montreal,Quebec,H4J 5Y8
+2074826,MasterCard,8.74E+15,944,21-Dec,4 Maple Wood Parkway,Montreal,Quebec,H7V 3M0
+8672894,Amex,7.44E+15,85,25-Sep,328 Everett Terrace,Laval,Quebec,H0N 0C6
+8058552,MasterCard,7.45E+15,280,18-Jan,99 Basil Terrace,Montreal,Quebec,H4V 5C2
+7083934,Amex,8.55E+15,493,24-Feb,686 Loomis Hill,Montreal,Quebec,H8W 0P2
+6023867,MasterCard,4.59E+15,844,25-Jan,63705 Thompson Parkway,Montreal,Quebec,H0P 8F8
+4745247,Visa,8.05E+15,606,18-Aug,2427 Hoffman Trail,Montreal,Quebec,H1B 9E7
+7491195,MasterCard,6.89E+15,424,19-Feb,5396 Iowa Court,Montreal,Quebec,H5L 3Y4
+3076159,Visa,9.28E+15,870,25-Jan,0352 Straubel Point,Montreal,Quebec,H1I 1Z5
+5371509,MasterCard,9.36E+15,867,18-Jul,42 Leroy Circle,Montreal,Quebec,H3T 8O7
+4626311,Visa,7.20E+14,284,23-Dec,1 Morrow Hill,Montreal,Quebec,H4X 5Y4
+5803355,MasterCard,1.51E+15,989,21-May,72413 Coleman Pass,Laval,Quebec,H2Q 9A4
+6603725,MasterCard,5.01E+15,805,17-Dec,9 Badeau Parkway,Montreal,Quebec,H9O 2I5
+8048338,Visa,3.58E+15,96,19-Oct,792 Dayton Drive,Montreal,Quebec,H4K 4N8
+4095199,Visa,5.20E+15,480,19-Dec,15520 Autumn Leaf Alley,Montreal,Quebec,H2N 2P0
+1844921,MasterCard,9.47E+15,430,25-Apr,4453 Linden Lane,Montreal,Quebec,H2V 4I3
+4615717,Amex,8.48E+15,987,20-Jun,704 Heath Point,Montreal,Quebec,H5U 9L1
+1322604,Visa,1.87E+15,432,24-Nov,87 Corscot Place,Montreal,Quebec,H7G 8K4
+9879531,Visa,8.81E+15,620,23-Mar,233 Barby Avenue,Montreal,Quebec,H3S 9V4
+3797551,Visa,7.23E+15,84,23-Jan,6 Village Green Center,Montreal,Quebec,H0U 3K0
+5766329,MasterCard,5.09E+15,185,18-Jan,92 Aberg Circle,Montreal,Quebec,H3F 1I5
+3798567,MasterCard,8.20E+15,305,25-Jul,9 Artisan Drive,Montreal,Quebec,H9T 6X6
+4691867,MasterCard,9.96E+15,73,23-May,09 Scott Alley,Montreal,Quebec,H3C 3W6
+2516908,Visa,3.34E+15,506,19-Aug,1 Redwing Trail,Montreal,Quebec,H9W 8F3
+2374350,MasterCard,9.88E+15,49,21-Dec,84 Sloan Crossing,Montreal,Quebec,H0T 9D7
+6152830,Visa,5.23E+15,723,18-Dec,1419 Badeau Park,Laval,Quebec,H2W 8Q9
+1908091,Visa,9.26E+15,60,23-Oct,6 Duke Alley,Montreal,Quebec,H3M 7H3
+9065890,MasterCard,7.39E+15,660,18-Dec,421 Colorado Alley,Montreal,Quebec,H9G 1T8
+1451572,MasterCard,2.78E+15,536,17-Dec,42 Brentwood Avenue,Montreal,Quebec,H6P 7X6
+2653461,Visa,2.78E+15,478,26-Feb,9788 Hanover Parkway,Montreal,Quebec,H9U 2D9
+4460732,Visa,8.43E+15,941,19-Mar,6089 Mitchell Court,Laval,Quebec,H4R 1B6
+3440310,Visa,9.52E+15,772,20-Mar,777 Mcbride Street,Laval,Quebec,H6J 5M6
+6157441,MasterCard,5.27E+15,109,18-Nov,3660 Scoville Drive,Montreal,Quebec,H8P 6A8
+3750654,MasterCard,4.40E+14,876,24-Jul,50191 Pond Point,Montreal,Quebec,H6U 9G4
+9562326,MasterCard,7.33E+15,627,27-Feb,81 3rd Circle,Montreal,Quebec,H0P 9I8
+2544942,Visa,9.07E+15,718,24-Jan,8 Graedel Point,Montreal,Quebec,H5Y 0K3
+2762842,MasterCard,5.09E+15,79,21-Nov,15 American Point,Laval,Quebec,H3S 7E4
+6055061,Visa,1.98E+14,277,25-Dec,65189 Southridge Circle,Montreal,Quebec,H5Z 3N5
+8126329,Visa,6.14E+15,953,19-Aug,11755 Hanson Point,Laval,Quebec,H7V 1R7
+3224328,MasterCard,3.68E+15,629,26-Dec,2 Sheridan Point,Montreal,Quebec,H7J 4W9
+4150652,MasterCard,8.25E+14,90,24-Nov,9740 Raven Way,Montreal,Quebec,H2C 2D9
+2386648,MasterCard,6.04E+15,222,22-Sep,40 Cordelia Junction,Montreal,Quebec,H0P 1R4
+2799194,MasterCard,8.11E+15,605,24-Oct,1807 Comanche Place,Montreal,Quebec,H7W 8Z4
+5327677,MasterCard,7.29E+15,954,24-Feb,3 Buena Vista Plaza,Montreal,Quebec,H8B 4S5
+3355905,MasterCard,6.29E+15,763,25-Nov,8 Thierer Drive,Montreal,Quebec,H6O 9W5
+1624295,MasterCard,2.84E+15,185,26-Feb,66 Riverside Point,Laval,Quebec,H0Z 9W4
+4223276,Visa,6.85E+15,435,26-Sep,86 Dwight Road,Montreal,Quebec,H7T 8T0
+2717404,Visa,5.67E+14,7,17-Jun,4546 Loomis Junction,Montreal,Quebec,H9W 7V7
+9623193,MasterCard,9.02E+15,482,25-Jul,71016 Maple Wood Place,Montreal,Quebec,H1S 8W2
+7275630,Visa,7.34E+15,980,26-Jan,000 Clemons Crossing,Laval,Quebec,H7U 2X5
+6901407,MasterCard,4.38E+15,233,20-Jan,309 Carioca Terrace,Montreal,Quebec,H9I 1H1
+9100143,Visa,6.34E+15,678,20-Mar,91 Sheridan Street,Montreal,Quebec,H9H 0B3
+7751459,MasterCard,2.66E+15,320,25-Sep,84832 Green Crossing,Montreal,Quebec,H9K 0X8
+5797830,MasterCard,6.75E+14,594,24-Nov,723 Jenifer Lane,Montreal,Quebec,H7L 5A8
+9508594,MasterCard,5.75E+15,811,24-Jan,15460 Village Green Crossing,Montreal,Quebec,H5L 2B8
+4925029,Visa,6.19E+15,798,24-Dec,0 Utah Road,Montreal,Quebec,H8N 5K4
+7303894,MasterCard,2.16E+15,33,20-Jul,6 Schlimgen Court,Montreal,Quebec,H6V 6J0
+8274246,Amex,2.02E+15,154,25-Mar,1 Spenser Court,Montreal,Quebec,H5D 5F6
+8125365,MasterCard,6.51E+15,724,21-Jan,2473 Grover Junction,Montreal,Quebec,H8Z 7B9
+4589483,MasterCard,3.44E+15,479,19-Feb,56150 Melvin Junction,Montreal,Quebec,H0V 3Y3
+7462137,Amex,8.14E+14,955,18-Nov,17843 Monica Avenue,Montreal,Quebec,H1V 0Z2
+9930711,Amex,1.89E+15,823,17-Apr,382 Oak Valley Street,Laval,Quebec,H8E 7R7
+7306233,Visa,2.99E+15,536,26-Sep,89937 Tennyson Lane,Montreal,Quebec,H2U 6F8
+6148106,Visa,3.47E+14,29,19-Nov,14 Annamark Plaza,Montreal,Quebec,H9M 1B9
+4782151,Visa,2.05E+15,87,17-Apr,16680 Holmberg Crossing,Montreal,Quebec,H9Q 3F9
+6068708,Amex,6.10E+15,522,22-Sep,36 Macpherson Trail,Montreal,Quebec,H7W 1D4
+7618640,MasterCard,7.96E+15,94,25-Jul,07213 Eastlawn Alley,Montreal,Quebec,H7V 0R8
+3435871,MasterCard,3.61E+15,311,17-Jun,7 Tennyson Road,Montreal,Quebec,H1J 4Q0
+4574303,Visa,6.90E+15,915,19-Jan,54 Hudson Plaza,Montreal,Quebec,H7S 9D4
+3011622,Amex,8.22E+15,156,24-Apr,11 Montana Lane,Montreal,Quebec,H3N 7U9
+9597845,Visa,6.31E+15,109,21-Mar,165 Kennedy Place,Montreal,Quebec,H3X 6R4
+7472941,Visa,8.86E+14,353,23-Aug,10 Lerdahl Parkway,Montreal,Quebec,H8Q 3V7
+9669070,MasterCard,3.94E+15,94,25-Jul,9248 Myrtle Place,Montreal,Quebec,H9W 3V1
+5711510,Visa,8.01E+15,269,21-Mar,99 Merchant Crossing,Montreal,Quebec,H5L 8K8
+8220987,MasterCard,2.03E+15,544,24-Aug,65 Gateway Circle,Montreal,Quebec,H2D 6F5
+8738688,Visa,5.94E+15,171,22-Sep,9 Bobwhite Pass,Montreal,Quebec,H9B 6E5
+9432843,Visa,3.39E+15,546,18-Jan,8652 Grim Center,Montreal,Quebec,H2Y 6O6
+8656782,MasterCard,5.11E+15,696,21-May,4 Fulton Avenue,Montreal,Quebec,H2D 9O0
+5671234,Amex,8.93E+15,195,18-Apr,180 Summer Ridge Terrace,Laval,Quebec,H9U 7T8
+9803541,Visa,5.57E+14,522,25-Jun,78 Colorado Point,Laval,Quebec,H9T 8I5
+5874376,Amex,6.76E+15,484,20-May,49 Corben Place,Montreal,Quebec,H3H 1Z9
+1700421,MasterCard,8.91E+15,55,20-Jan,0 Hazelcrest Drive,Montreal,Quebec,H7W 3V0
+5761292,Visa,6.21E+15,255,19-Oct,19 Menomonie Place,Laval,Quebec,H1X 2P0
+3603928,Amex,5.86E+15,511,18-Nov,9189 Ramsey Plaza,Montreal,Quebec,H7S 2Y7
+4428105,MasterCard,4.05E+15,519,21-Nov,198 Farragut Court,Montreal,Quebec,H4Z 0G8
+5091016,Amex,2.86E+15,190,17-May,1218 Grim Lane,Laval,Quebec,H9R 0F8
+7479990,Amex,3.26E+15,989,20-Nov,59 Twin Pines Place,Montreal,Quebec,H3X 3O9
+9908611,Visa,8.18E+15,633,22-Oct,417 Harbort Place,Montreal,Quebec,H8E 9E9
+9577675,Visa,3.30E+15,737,23-Mar,0 Ryan Alley,Laval,Quebec,H5V 0X6
+3673584,MasterCard,4.07E+15,88,26-Jan,3142 Commercial Plaza,Montreal,Quebec,H1F 3Y6
+9607852,MasterCard,5.16E+15,822,19-Oct,0357 Eggendart Road,Montreal,Quebec,H6H 4V3
+5461539,MasterCard,2.34E+14,121,23-Jul,53323 Beilfuss Avenue,Laval,Quebec,H9A 0B3
+7599711,MasterCard,1.45E+15,906,21-May,5 Johnson Alley,Montreal,Quebec,H9J 7W2
+7395476,Visa,3.18E+15,932,25-Nov,82450 Schiller Circle,Laval,Quebec,H6P 5T5
+3227341,MasterCard,6.09E+15,891,19-Jun,8 Meadow Ridge Junction,Montreal,Quebec,H7Z 5H4
+2222707,Visa,6.71E+15,615,20-May,0 Anniversary Pass,Montreal,Quebec,H8X 3A8
+3397028,MasterCard,5.77E+15,663,19-Nov,4189 Monterey Trail,Montreal,Quebec,H6O 9K7
+7225959,MasterCard,2.43E+15,878,25-Sep,5 Upham Center,Montreal,Quebec,H7D 3S5
+8610418,Visa,1.40E+15,795,20-Jul,427 Crowley Crossing,Montreal,Quebec,H2D 2U9
+4060619,MasterCard,7.34E+14,324,19-Jan,4447 Eggendart Street,Montreal,Quebec,H9I 8H3
+5751853,Visa,8.03E+15,245,20-May,87761 Straubel Junction,Laval,Quebec,H2K 1Y6
+4103279,Visa,4.00E+14,933,18-Jan,4 Aberg Hill,Montreal,Quebec,H3V 0Q3
+2481477,MasterCard,1.44E+15,292,20-May,45471 Weeping Birch Avenue,Montreal,Quebec,H9V 7V4
+1825221,MasterCard,3.71E+15,642,22-Aug,9 Anderson Circle,Montreal,Quebec,H4L 0D0
+3774830,Amex,1.32E+15,150,21-May,5923 Drewry Terrace,Montreal,Quebec,H4O 1F9
+7505859,Amex,4.01E+15,346,22-Feb,362 Golden Leaf Court,Montreal,Quebec,H5E 6L1
+2147267,MasterCard,8.11E+15,609,26-Oct,02 David Center,Laval,Quebec,H0R 6A2
+6810728,MasterCard,3.83E+15,533,23-Dec,64753 La Follette Place,Laval,Quebec,H8N 9M4
+2963189,MasterCard,5.71E+15,790,21-Dec,67844 Havey Crossing,Montreal,Quebec,H5B 0C9
+3893235,MasterCard,2.64E+15,649,21-Jul,9 Southridge Hill,Montreal,Quebec,H7B 6X0
+8691517,MasterCard,8.65E+15,185,24-Mar,58965 Crownhardt Trail,Montreal,Quebec,H3F 8F0
+7974918,MasterCard,1.63E+15,378,18-Jan,1 Veith Point,Montreal,Quebec,H2A 4D4
+1043117,MasterCard,3.22E+15,848,21-Apr,58 Ohio Court,Laval,Quebec,H8H 4B1
+5223829,Visa,5.05E+15,662,25-Aug,79 Green Trail,Laval,Quebec,H7B 6A9
+8562019,MasterCard,8.89E+15,12,17-Dec,8 Saint Paul Trail,Montreal,Quebec,H8F 0N6
+3950420,MasterCard,5.86E+15,0,19-Apr,69349 Butternut Pass,Montreal,Quebec,H4D 7Y1
+2675894,Visa,6.15E+15,433,26-Jun,67 Moose Lane,Montreal,Quebec,H9C 4E5
+3805474,Visa,6.75E+15,461,24-Jun,3 Westridge Point,Laval,Quebec,H2Z 0I7
+6254746,MasterCard,7.48E+15,466,25-Jul,71 Buell Way,Montreal,Quebec,H7E 9O0
+6426665,Visa,7.14E+14,343,17-Jun,06 Holmberg Court,Laval,Quebec,H7H 6X9
+6968996,Visa,1.92E+15,860,24-Dec,3 Aberg Center,Montreal,Quebec,H4U 5F1
+5551522,MasterCard,1.41E+15,12,25-Apr,3 Havey Trail,Montreal,Quebec,H4B 9H4
+1943310,MasterCard,3.89E+15,385,17-May,43224 Delaware Crossing,Montreal,Quebec,H5E 2B9
+6066930,MasterCard,7.47E+15,811,21-Mar,20 Kedzie Parkway,Montreal,Quebec,H7H 8K2
+2139866,MasterCard,1.18E+15,608,24-Mar,7 Welch Drive,Laval,Quebec,H3H 1R9
+4029221,Visa,2.77E+15,62,21-Apr,58 Mendota Parkway,Montreal,Quebec,H7K 3G4
+1348227,Amex,7.52E+15,824,26-Apr,95 Mcguire Street,Montreal,Quebec,H4M 7X6
+6853742,MasterCard,7.03E+14,640,26-Sep,64 Blue Bill Park Plaza,Montreal,Quebec,H0X 2B5
+9722839,MasterCard,5.34E+15,924,26-Oct,137 Monterey Junction,Montreal,Quebec,H8A 2S2
+2553806,MasterCard,6.18E+15,267,20-May,755 Bay Plaza,Laval,Quebec,H6V 8W9
+4541210,MasterCard,3.45E+15,611,19-May,3 Boyd Plaza,Laval,Quebec,H4P 1D6
+9797333,Visa,6.38E+15,858,24-May,43 8th Court,Montreal,Quebec,H4S 4K8
+6229532,MasterCard,7.67E+15,84,17-Dec,1332 Buell Road,Montreal,Quebec,H2I 3Z4
+4202797,MasterCard,2.78E+15,377,22-Aug,2 Knutson Street,Montreal,Quebec,H8D 7H2
+2210897,Visa,4.78E+15,541,21-Aug,001 Coolidge Crossing,Montreal,Quebec,H8Q 7N1
+6298592,MasterCard,9.12E+15,902,26-Apr,18664 Browning Circle,Montreal,Quebec,H6K 7M5
+7696601,Visa,6.55E+15,17,23-Apr,35242 Harper Park,Montreal,Quebec,H5X 1D3
+2988917,MasterCard,5.11E+15,850,19-Jun,33570 Magdeline Road,Laval,Quebec,H7Z 1Y8
+5520702,Amex,2.52E+15,707,24-Dec,998 Manley Drive,Montreal,Quebec,H4Q 0W5
+1700705,MasterCard,1.77E+15,680,23-Aug,92 Dwight Plaza,Laval,Quebec,H5N 3F9
+2514370,Amex,7.65E+15,754,17-Jul,631 Gerald Parkway,Montreal,Quebec,H5S 5I1
+6854442,Amex,4.09E+15,877,21-Dec,77 Gerald Road,Montreal,Quebec,H9T 2V3
+5316265,MasterCard,4.05E+15,728,22-Nov,2 4th Center,Montreal,Quebec,H4D 1W0
+4334946,MasterCard,8.14E+15,190,26-Feb,5 Tony Lane,Montreal,Quebec,H6P 5H6
+3402218,Visa,6.73E+15,576,26-Dec,135 Shasta Crossing,Laval,Quebec,H3M 5L0
+2559338,Visa,7.42E+15,271,24-Nov,85578 Hazelcrest Street,Laval,Quebec,H5I 7Y4
+6094525,Amex,4.12E+15,69,19-Nov,52423 Kinsman Drive,Montreal,Quebec,H2I 2F9
+3195550,Visa,8.78E+15,746,21-Jan,93 Lunder Place,Montreal,Quebec,H4N 4S7
+5448159,Visa,7.41E+15,291,18-Nov,43 Washington Hill,Montreal,Quebec,H5Y 3P6
+7800404,Amex,7.34E+14,549,21-Aug,7 Londonderry Pass,Laval,Quebec,H0C 9F5
+7282134,MasterCard,3.97E+15,100,23-Jun,1496 Hudson Avenue,Laval,Quebec,H8R 0N7
+7583267,Visa,3.02E+15,927,26-Nov,40 Charing Cross Road,Montreal,Quebec,H0E 4Y1
+4354924,MasterCard,1.38E+15,329,25-Jan,42741 Dixon Place,Montreal,Quebec,H3B 3F4
+9255251,Visa,4.84E+15,918,25-Nov,4826 Prentice Lane,Montreal,Quebec,H6U 2A1
+8598156,Visa,6.93E+15,709,17-Mar,0 Aberg Point,Montreal,Quebec,H7K 7N0
+5477377,Amex,9.25E+15,810,24-Sep,46 Calypso Pass,Montreal,Quebec,H8C 2G9
+4270924,Amex,3.55E+15,632,25-Feb,53 Thackeray Court,Montreal,Quebec,H9Z 0F4
+1558249,Amex,2.54E+15,42,18-Mar,88003 Cordelia Court,Montreal,Quebec,H7T 7L5
+8333229,Visa,3.18E+15,72,20-Jan,4 Southridge Trail,Montreal,Quebec,H9V 3M0
+2913671,MasterCard,2.39E+15,813,27-Feb,0297 Crescent Oaks Drive,Montreal,Quebec,H0L 9U6

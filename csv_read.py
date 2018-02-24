@@ -1,12 +1,20 @@
 
 import csv
 import random
+from random import randrange
+from datetime import timedelta
+from datetime import datetime
+
 TABLE_LIST = {"users.csv":"User","payment_method.csv":"Payment Method","stock_products.csv":"Stock Product"}
 
 TABLE_DICT = {"users.csv":["user_id","password","status","email","first_name","last_name"], "payment_method.csv":["payment_id","type","card_number","expiry_date","billing_address","city","province","postal_code"], "stock_products.csv":["product_id","name","units_available","price_per_unit"]}
 DEFAULT = 0
 FILE_NAME = ""
 CONVERTED_LIST = []
+TODAY = datetime.now()
+YEAR_AGO = TODAY - timedelta(days=365)
+
+
 
 global f
 
@@ -90,20 +98,90 @@ def create_payment_save():
     t2 = CONVERTED_LIST[1]
     t_unique_1 = t1.unique_keys
     t_unique_2 = t2.unique_keys
-    for key in t_unique_2:
-        random_user = random.choice(t_unique_1)
-        pair = [key, random_user]
+    for user in t_unique_1:
+        random_card = random.choice(t_unique_2)
+        pair = [random_card,user]
         payment_saves.add_unit_row(pair)
     #payment_saves.print_contents()
     CONVERTED_LIST.append(payment_saves)
     #s
 
 
+def create_carts():
+    carts = Table("Cart")
+    num_carts = 0
+    pm_user_pair = CONVERTED_LIST[3].rows
+    print(pm_user_pair)
+    # Each user may have a currently active cart, leaving the rest as 'historical' carts
+    print(len(pm_user_pair))
+    num_history_carts = 375
+    print(num_history_carts)
+    # Creating the historical carts
+    while num_carts < num_history_carts:
+        random_pu_pair = random.choice(pm_user_pair)
+        h_user = random_pu_pair[1]
+        h_payment = random_pu_pair[0]
+        cart_counter = random.randint(1,4)
+        t_date = YEAR_AGO
+        for i in range (1,cart_counter):
+            num_carts += 1
+            cart_id = i
+            date = random_date(t_date,TODAY)
+            t_date = date
+            date = ((str(date))[:10])
+            information = [h_user, h_payment, date, cart_id]
+            carts.add_unit_row(information)
+    carts.print_contents()
+    CONVERTED_LIST.append(carts)
+
+
+def create_cart_lists():
+    cart_lists = Table("Cart List")
+    cart_info = CONVERTED_LIST[4].rows
+    product_info = CONVERTED_LIST[2].rows
+    item_list = []
+    for cart in cart_info:
+        user = cart[0]
+        cart_no = cart[3]
+        information = [user, cart_no]
+        number_of_items = random.randint(1,30)
+        running_cost = 0
+        for i in range(1, 30):
+            if i >= number_of_items:
+                information.append("Null")
+            else:
+                random_item = random.choice(product_info)
+                r_name = random_item[1]
+                ppu = float(random_item[3])
+                quantity = random.uniform(1.0,4.2)
+                cost = ppu * quantity
+                running_cost += cost
+                quantity = "{0:.2f}".format(quantity)
+                cost = "{0:.2f}".format(cost)
+                t_info = r_name +","+str(quantity) +","+ str(cost)
+                information.append(t_info)
+        running_cost = "{0:.2f}".format(running_cost)
+        information.insert(2, running_cost)
+        cart_lists.add_unit_row(information)
+        cart_lists.print_contents()
+
+
+def random_date(start, end):
+    delta = end - start
+    int_delta = (delta.days * 24 * 60 * 60) + delta.seconds
+    random_second = randrange(int_delta)
+    return start + timedelta(seconds=random_second)
+
+
 read_in()
 unique_keys()
-#create_payment_save()
+create_payment_save()
 for table in CONVERTED_LIST:
     table.translate_to_SQL()
     table.print_sql()
+create_carts()
+print(TODAY)
+print(YEAR_AGO)
+create_cart_lists()
 
 

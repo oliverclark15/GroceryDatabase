@@ -35,7 +35,15 @@ class Table:
         for row in self.rows:
             temp_command = ""
             for value in row:
+                value = value.replace("-","")
+                value = value.replace(","," ")
+                value = value.replace("  "," ")
+                if all(x.isalpha() or x.isspace() or (x == '@') for x in value[4:]) and (len(value) > 4):
+                    value = "'"+value+"'"
+                if (value[0] == 'H' and value[1].isdigit() and value[2].isalpha()):
+                    value = "'" + value + "'"
                 temp_command += value + ","
+            temp_command = temp_command[:-1]
             self.commands.append("INSERT INTO " + self.table_name + "\nValues (" + temp_command + ");")
 
     def get_unique_keys(self):
@@ -96,7 +104,7 @@ def create_payment_save():
 
 read_in()
 unique_keys()
-create_payment_save()
+#create_payment_save()
 for table in CONVERTED_LIST:
     table.translate_to_SQL()
     table.print_sql()
